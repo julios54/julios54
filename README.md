@@ -1,4 +1,4 @@
-# ❗️Disponible à partir du 01/07/2022 pour une mission longue durée (PHP / Symfony / VueJS) 💻
+# ❗️Disponible à partir du 01/07/2022 pour une mission longue durée (PHP / Symfony / VueJS) 💻 (humbert.julien54@gmail.com)
 
 ## Qui suis-je
 
