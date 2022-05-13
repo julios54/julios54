@@ -4,11 +4,11 @@
 
 Je suis Julien HUMBERT, 34 ans, développeur web depuis plus de 11 ans et Papa de 2 enfants.
 
-J'ai travaillé pendant 8 ans sur Paris, principalement en tant que prestataire pour des ESN pour des grands comptes comme **Vivarte**, **Prismamedia**, **Maisons du monde**, mais aussi pour des startups comme **Restovisio**, **Lesbonsprofs**, etc
+J'ai travaillé pendant 8 ans sur Paris, principalement en tant que prestataire en ESN pour des grands comptes comme **Vivarte**, **Prismamedia**, **Maisons du monde**, mais aussi pour des startups comme **Restovisio**, **Lesbonsprofs**, etc
 
 Je suis ensuite parti vivre 3 ans à Singapour, période pendant laquelle j'ai travaillé à distance pour des clients français en tant que **autoentrepreneur**, sur des projets principalement au forfait. J'y ai aussi développé mon **anglais** et je suis désormais à l'aise pour converser en anglais sur mes projets.
 
-Depuis 2020, je travaille pour l'agence web/ESN **Fidesio**. J'ai eu l'occasion de travailler en interne sur la refonte technique du réseau social MYM, et depuis juillet 2021, je suis en mission chez **Carrefour** en tant que développeur PHP Symfony VueJS.
+Depuis 2020, je suis en CDI chez **Fidesio** (Agence web/ESN). J'ai eu l'occasion de travailler en interne sur la refonte technique du réseau social MYM, et depuis juillet 2021, je suis en mission chez **Carrefour** en tant que développeur PHP Symfony VueJS.
 
 ## Carrefour
 
