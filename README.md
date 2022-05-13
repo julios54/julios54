@@ -16,7 +16,6 @@ Depuis 2020, je travaille pour l'agence web/ESN **Fidesio**. J'ai eu l'occasion 
 
 Au sein d'une équipe AGILE de 6 développeurs (3 Front, 2 Fullstack, 1 Lead Dev), 1 QA, 1 Scrum et 1 PO, je participe depuis 1 an au développement du site carrefour.fr et plus particulièrement de la partie visualisation/recherche des produits.
 En tant que développeur Senior, j'ai eu à ma charge de faire beaucoup de code review, de merger les PR, et d'aider les développeurs plus junior.
-Techniquement, la partie
 
 ### Techniquement
 
